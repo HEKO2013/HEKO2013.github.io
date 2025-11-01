@@ -1,0 +1,19 @@
+.contacts{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(blue, aqua);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10%;
+    box-shadow: 0px 0px 20px 20px rgb(161, 156, 156);
+    position: absolute;
+    left: 30%;
+    top: 12%;
+}
+main h1{
+     color: black;
+     margin-bottom: 170%;
+     font-size: 3em;
+}
